@@ -1,0 +1,13 @@
+train: /root/yolo11/roboflow_dataset/train/images
+val: /root/yolo11/roboflow_dataset/valid/images
+test: /root/yolo11/roboflow_dataset/test/images
+
+nc: 2
+names: ['0', '1']
+
+roboflow:
+  workspace: kandidatarmoadap
+  project: climbing-hold-detection-xb8yz
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/kandidatarmoadap/climbing-hold-detection-xb8yz/dataset/1
