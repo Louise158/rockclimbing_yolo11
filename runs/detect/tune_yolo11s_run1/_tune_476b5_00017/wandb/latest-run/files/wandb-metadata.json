@@ -1,0 +1,54 @@
+{
+  "os": "Linux-5.4.0-163-generic-x86_64-with-glibc2.35",
+  "python": "CPython 3.12.0",
+  "startedAt": "2025-12-02T08:26:37.719509Z",
+  "args": [
+    "--node-ip-address=172.17.0.4",
+    "--node-manager-port=44831",
+    "--object-store-name=/tmp/ray/session_2025-12-02_11-23-28_642637_15770/sockets/plasma_store",
+    "--raylet-name=/tmp/ray/session_2025-12-02_11-23-28_642637_15770/sockets/raylet",
+    "--redis-address=None",
+    "--metrics-agent-port=63426",
+    "--logging-rotate-bytes=536870912",
+    "--logging-rotate-backup-count=5",
+    "--runtime-env-agent-port=57271",
+    "--gcs-address=172.17.0.4:64223",
+    "--session-name=session_2025-12-02_11-23-28_642637_15770",
+    "--temp-dir=/tmp/ray",
+    "--webui=",
+    "--cluster-id=403d16d8ec868cc7f00b1f4771b2d9b2218a81b5d6af9e311ba9f93b",
+    "--startup-token=61",
+    "--worker-launch-time-ms=1764663994728",
+    "--node-id=17de6c4364b00df7af153eb511c4bd698bdc31a23c0bbed0f520c8f2",
+    "--runtime-env-hash=0"
+  ],
+  "program": "/root/miniconda3/envs/yolo11/lib/python3.12/site-packages/ray/_private/workers/default_worker.py",
+  "email": "Louise158@stu.sufe.edu.cn",
+  "root": "/tmp/ray/session_2025-12-02_11-23-28_642637_15770/artifacts/2025-12-02_11-23-32/tune_yolo11s_run1/driver_artifacts/_tune_476b5_00017",
+  "host": "autodl-container-bfc840bf61-9a26cdb5",
+  "executable": "/root/miniconda3/envs/yolo11/bin/python",
+  "cpu_count": 24,
+  "cpu_count_logical": 48,
+  "gpu": "NVIDIA GeForce RTX 3080 Ti",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "32212254720",
+      "used": "18325245952"
+    }
+  },
+  "memory": {
+    "total": "472735358976"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 3080 Ti",
+      "memoryTotal": "12884901888",
+      "cudaCores": 10240,
+      "architecture": "Ampere",
+      "uuid": "GPU-26def0a3-b7bf-ffc8-a4a0-062c8c700c28"
+    }
+  ],
+  "cudaVersion": "13.0",
+  "writerId": "rg7ml14o7dwj84ov3wz2a4s4k0c0qm7n"
+}

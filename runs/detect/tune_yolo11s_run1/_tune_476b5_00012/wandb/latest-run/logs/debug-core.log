@@ -1,0 +1,8 @@
+{"time":"2025-12-02T15:09:46.281829654+08:00","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmp_ksaoirw/port-29361.txt","pid":29361,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-12-02T15:09:46.28298472+08:00","level":"INFO","msg":"server: will exit if parent process dies","ppid":29361}
+{"time":"2025-12-02T15:09:46.282911978+08:00","level":"INFO","msg":"server: accepting connections","addr":{"Name":"/tmp/wandb-29361-29526-3033718931/socket","Net":"unix"}}
+{"time":"2025-12-02T15:09:46.460762876+08:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(@)"}
+{"time":"2025-12-02T15:09:46.488064753+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"476b5_00012","id":"1(@)"}
+{"time":"2025-12-02T15:09:47.30665081+08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"476b5_00012","id":"1(@)"}
+{"time":"2025-12-02T15:19:13.644202591+08:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"476b5_00012","id":"1(@)"}
+{"time":"2025-12-02T15:19:13.646465363+08:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"476b5_00012","id":"1(@)"}

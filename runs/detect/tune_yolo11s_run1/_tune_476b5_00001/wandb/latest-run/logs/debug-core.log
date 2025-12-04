@@ -1,0 +1,8 @@
+{"time":"2025-12-02T12:03:19.910965563+08:00","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmped1pyhw8/port-18739.txt","pid":18739,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-12-02T12:03:19.911541365+08:00","level":"INFO","msg":"server: will exit if parent process dies","ppid":18739}
+{"time":"2025-12-02T12:03:19.911527456+08:00","level":"INFO","msg":"server: accepting connections","addr":{"Name":"/tmp/wandb-18739-18848-3989285072/socket","Net":"unix"}}
+{"time":"2025-12-02T12:03:20.093050687+08:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(@)"}
+{"time":"2025-12-02T12:03:20.110150822+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"476b5_00001","id":"1(@)"}
+{"time":"2025-12-02T12:03:21.000122243+08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"476b5_00001","id":"1(@)"}
+{"time":"2025-12-02T12:17:43.967630419+08:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"476b5_00001","id":"1(@)"}
+{"time":"2025-12-02T12:17:43.971104055+08:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"476b5_00001","id":"1(@)"}

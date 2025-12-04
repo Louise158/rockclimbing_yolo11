@@ -1,0 +1,8 @@
+{"time":"2025-12-02T14:08:56.928593758+08:00","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmp33m_jgb7/port-25624.txt","pid":25624,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-12-02T14:08:56.931907033+08:00","level":"INFO","msg":"server: will exit if parent process dies","ppid":25624}
+{"time":"2025-12-02T14:08:56.931873135+08:00","level":"INFO","msg":"server: accepting connections","addr":{"Name":"/tmp/wandb-25624-25790-2595656105/socket","Net":"unix"}}
+{"time":"2025-12-02T14:08:57.11219133+08:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(@)"}
+{"time":"2025-12-02T14:08:57.141586219+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"476b5_00008","id":"1(@)"}
+{"time":"2025-12-02T14:08:57.903760871+08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"476b5_00008","id":"1(@)"}
+{"time":"2025-12-02T14:24:18.638973012+08:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"476b5_00008","id":"1(@)"}
+{"time":"2025-12-02T14:24:18.642366182+08:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"476b5_00008","id":"1(@)"}

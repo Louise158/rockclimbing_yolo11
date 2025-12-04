@@ -1,0 +1,134 @@
+_wandb:
+    value:
+        cli_version: 0.23.0
+        e:
+            ib4s9duoad36ns9b2ff8j4mjxsblzk3u:
+                args:
+                    - --node-ip-address=172.17.0.4
+                    - --node-manager-port=44831
+                    - --object-store-name=/tmp/ray/session_2025-12-02_11-23-28_642637_15770/sockets/plasma_store
+                    - --raylet-name=/tmp/ray/session_2025-12-02_11-23-28_642637_15770/sockets/raylet
+                    - --redis-address=None
+                    - --metrics-agent-port=63426
+                    - --logging-rotate-bytes=536870912
+                    - --logging-rotate-backup-count=5
+                    - --runtime-env-agent-port=57271
+                    - --gcs-address=172.17.0.4:64223
+                    - --session-name=session_2025-12-02_11-23-28_642637_15770
+                    - --temp-dir=/tmp/ray
+                    - --webui=
+                    - --cluster-id=403d16d8ec868cc7f00b1f4771b2d9b2218a81b5d6af9e311ba9f93b
+                    - --startup-token=59
+                    - --worker-launch-time-ms=1764663440699
+                    - --node-id=17de6c4364b00df7af153eb511c4bd698bdc31a23c0bbed0f520c8f2
+                    - --runtime-env-hash=0
+                cpu_count: 24
+                cpu_count_logical: 48
+                cudaVersion: "13.0"
+                disk:
+                    /:
+                        total: "32212254720"
+                        used: "18182094848"
+                email: Louise158@stu.sufe.edu.cn
+                executable: /root/miniconda3/envs/yolo11/bin/python
+                gpu: NVIDIA GeForce RTX 3080 Ti
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ampere
+                      cudaCores: 10240
+                      memoryTotal: "12884901888"
+                      name: NVIDIA GeForce RTX 3080 Ti
+                      uuid: GPU-26def0a3-b7bf-ffc8-a4a0-062c8c700c28
+                host: autodl-container-bfc840bf61-9a26cdb5
+                memory:
+                    total: "472735358976"
+                os: Linux-5.4.0-163-generic-x86_64-with-glibc2.35
+                program: /root/miniconda3/envs/yolo11/lib/python3.12/site-packages/ray/_private/workers/default_worker.py
+                python: CPython 3.12.0
+                root: /tmp/ray/session_2025-12-02_11-23-28_642637_15770/artifacts/2025-12-02_11-23-32/tune_yolo11s_run1/driver_artifacts/_tune_476b5_00016
+                startedAt: "2025-12-02T08:17:23.513595Z"
+                writerId: ib4s9duoad36ns9b2ff8j4mjxsblzk3u
+        m: []
+        python_version: 3.12.0
+        t:
+            "1":
+                - 30
+            "2":
+                - 30
+            "3":
+                - 2
+                - 13
+                - 14
+                - 16
+                - 19
+                - 61
+            "4": 3.12.0
+            "5": 0.23.0
+            "10":
+                - 20
+            "12": 0.23.0
+            "13": linux-x86_64
+bgr:
+    value: 0.23192866551430058
+box:
+    value: 0.04824943795236127
+cls:
+    value: 1.0224167088310738
+copy_paste:
+    value: 0.15746561221297173
+cutmix:
+    value: 0.042053747388696494
+data:
+    value: /root/yolo11/roboflow_dataset/data.yaml
+date:
+    value: 2025-12-02_16-26-31
+degrees:
+    value: 23.191456172001413
+epochs:
+    value: 60
+fliplr:
+    value: 0.03660971502837718
+flipud:
+    value: 0.7563514090831246
+hostname:
+    value: autodl-container-bfc840bf61-9a26cdb5
+hsv_h:
+    value: 0.06211013441722873
+hsv_s:
+    value: 0.7464597770752417
+hsv_v:
+    value: 0.1905650897918473
+lr0:
+    value: 0.08116536767316256
+lrf:
+    value: 0.17133116359050837
+mixup:
+    value: 0.6572173182598604
+momentum:
+    value: 0.6296165946835657
+mosaic:
+    value: 0.31201459025448863
+node_ip:
+    value: 172.17.0.4
+perspective:
+    value: 0.00030156504258202954
+pid:
+    value: 33105
+pretrained:
+    value: yolo11s.pt
+scale:
+    value: 0.7696423389409927
+shear:
+    value: 0.28995154791450983
+translate:
+    value: 0.8662402854310575
+trial_id:
+    value: 476b5_00016
+trial_log_path:
+    value: /tmp/ray/session_2025-12-02_11-23-28_642637_15770/artifacts/2025-12-02_11-23-32/tune_yolo11s_run1/driver_artifacts/_tune_476b5_00016
+warmup_epochs:
+    value: 2.247955229924048
+warmup_momentum:
+    value: 0.8680008904861236
+weight_decay:
+    value: 0.00040048536220576995
